@@ -144,7 +144,7 @@ The Streamlit dashboard provides a simple interface for:
 ## Project Structure
 
 ```text
-ResearchPilot/
+ResearchPilot-AI/
 |
 ├── app/
 |   ├── main.py
@@ -158,11 +158,14 @@ ResearchPilot/
 |       ├── search_service.py
 |       ├── source_aggregator.py
 |       └── source_quality.py
-|
+├── assets/
+│   ├── dashboard.png
+│   ├── report_view.png
+│   └── sources.png
 ├── streamlit_app.py
 ├── requirements.txt
 ├── .gitignore
-├── .env
+├── .env.example
 └── README.md
 ```
 
@@ -467,6 +470,8 @@ Potential improvements include:
 * Research history and saved reports
 * More advanced research workflows
 
+---
+
 ## 👨‍💻 Author
 
 **Hamza Shoaib**
@@ -479,9 +484,11 @@ AI & ML Engineer
 * **[GitHub](https://github.com/hamxashoaib)**
 * **[LinkedIn](https://www.linkedin.com/in/ch-hamza-shoaib/)**
 
+---
 
 ## ⭐ Project
 
 If you find TriageFlow interesting, consider giving the repository a ⭐ on GitHub.
+
 
 
