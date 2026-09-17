@@ -501,7 +501,7 @@ AI & ML Engineer
 
 ## ⭐ Project
 
-If you find TriageFlow interesting, consider giving the repository a ⭐ on GitHub.
+If you find ResearchPilot-AI interesting, consider giving the repository a ⭐ on GitHub.
 
 
 
