@@ -128,6 +128,19 @@ The Streamlit dashboard provides a simple interface for:
 * Reviewing evidence verification results
 * Downloading the generated report
 
+## Research Dashboard Preview
+
+The Streamlit interface provides a clean, single-screen control panel to run queries, view evidence scores, and read verified reports.
+
+**Main Dashboard View**
+![ResearchPilot AI Dashboard](assets/dashboard.png)
+
+**Evidence Sources & Scoring View**
+![Evidence Sources View](assets/sources.png)
+
+**Generated Research Report**
+![Report View](assets/report_view.png)
+
 ## Technology Stack
 
 | Component        | Technology                |
