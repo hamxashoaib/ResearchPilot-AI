@@ -247,7 +247,7 @@ Before running ResearchPilot AI, make sure you have:
 
 ```bash
 git clone https://github.com/hamxashoaib/ResearchPilot-AI.git
-cd ResearchPilot
+cd ResearchPilot-AI
 ```
 
 ## Create a Virtual Environment
